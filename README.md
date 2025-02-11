@@ -6,7 +6,7 @@ Authors:
     - Vansh Sharma, Michael Ullman and Venkat Raman
 
 Affiliation: 
-    - [APCL](https://sites.google.com/umich.edu/apcl/home?authuser=0) Group 
+    - [Advanced Propulsion Concepts Lab](https://sites.google.com/umich.edu/apcl/home?authuser=0)  
     - Department of Aerospace Engineering, University of Michigan, Ann Arbor
 
 ---
