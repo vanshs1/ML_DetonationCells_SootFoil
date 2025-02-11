@@ -12,18 +12,19 @@ Affiliation:
 ---
 
 ## 📜 Citation
-If you use this work in your research, please cite it as follows:
+If you use this code (in any form) in your research, kindly cite it as follows:
 
 ```
-@article{yourcitation2025,
-  author    = {Your Name and Co-Authors},
-  title     = {UPDATE},
-  journal   = {UPDATE},
-  year      = {2025},
-  volume    = {X},
-  number    = {Y},
-  pages     = {1-10},
-  doi       = {10.XXXX/yourdoi}
+@article{SHARMA2025114026,
+title = {A machine learning based approach for statistical analysis of detonation cells from soot foils},
+journal = {Combustion and Flame},
+volume = {274},
+pages = {114026},
+year = {2025},
+issn = {0010-2180},
+doi = {https://doi.org/10.1016/j.combustflame.2025.114026},
+url = {https://www.sciencedirect.com/science/article/pii/S0010218025000641},
+author = {Vansh Sharma and Michael Ullman and Venkat Raman},
 }
 ```
 
@@ -91,7 +92,7 @@ Note: Pre-processing may not be required for all cases. Users can experiment wit
 
 > **Example Output:**
 
-![Example Segmentation](https://raw.githubusercontent.com/yourusername/image-analysis/main/examples/example_from_Sharma_et_al_CnF.png)
+![Example Segmentation](https://raw.githubusercontent.com/vanshs1/ML_DetonationCells_SootFoil/main/example/example_from_Sharma_et_al_CnF.png)
 
 
 ---
@@ -104,7 +105,7 @@ Pull requests are closed for now! For major changes, please email.
 
 ##  License
 
-see the `LICENSE` file for details.
+LGPL-2.1 Licence. See the `LICENSE` file for details.
 
 ---
 
